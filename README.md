@@ -1,2 +1,2 @@
 # codinglatte.com-comments
-Comments on Coding Latte
+Comments for Both [Coding Latte](http://codinglatte.com) and [The InfoGrid](http://theinfogrid.com)
